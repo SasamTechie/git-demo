@@ -17,6 +17,10 @@ public class App
 
 	}
 
+	void addingData(){
+System.out.println("New Welcome");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
