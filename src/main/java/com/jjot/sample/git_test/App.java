@@ -10,9 +10,7 @@ public class App
 
 	public void addData(String data) {
 
-		System.out.println("data=" + data);
-
-		if (data.equals("anil")) {
+		if (data.equals(Constant.Data_Type)) {
 
 			System.out.println("Welcome");
 		}
